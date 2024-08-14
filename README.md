@@ -1,4 +1,4 @@
-## MIPS Assembly Exercises
+## MIPS-Assembly-Exercises
 
 This repository contains solutions to MIPS assembly programming exercises focused on simulating maze navigation algorithms using the MARS (MIPS Assembler and Runtime Simulator). The exercises are part of a course on computer organization, designed to deepen understanding of low-level programming, memory management, and algorithmic problem-solving using MIPS assembly language.
 
